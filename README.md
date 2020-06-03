@@ -1,5 +1,5 @@
 # Real-Estate-Web-Scraper
-Case Use: This was an educational project to scrape real estate information from the <a href="https://www.century21.com/"> Century21 Real Estate website</a>. It will only work with the Century21 website. This also gave additional practice with Jupyter notebook.
+Case Use: This was an educational project to scrape real estate information from the <a href="https://www.century21.com/"> Century 21 Real Estate website</a>. It will only work with the Century 21 website. This also gave additional practice with Jupyter notebook.
 
 Modules Used:
 
@@ -13,7 +13,7 @@ Make sure you have BeautifulSoup installed.
 
 Perform a search on Century21 website. 
 
-Copy/Paste your search URL from the Century21 website to the Requests.Get method at the top of the script. 
+Copy/Paste your search URL from the Century 21 website to the Requests.Get method at the top of the script. 
 
 Run the Python script named "web_scraper.ipynb" using Jupyter 
 
